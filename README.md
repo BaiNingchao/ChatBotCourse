@@ -1,3 +1,8 @@
+# 【机器学习和自然语言QQ群：436303759】：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ef3bbb679b06ac59b136c57ba9e7935ff9d3b10faeabde6e4efcafe523bbbf4d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="自然语言处理和机器学习技术QQ交流" title="自然语言处理和机器学习技术交流"></a>
+
+# 个人主页：[白宁超](https://bainingchao.github.io/)】
+
+
 
 
 自己动手做聊天机器人教程
