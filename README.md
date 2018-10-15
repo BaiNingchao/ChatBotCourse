@@ -1,12 +1,4 @@
-ChatBotCourse
-==============
-_读本人更多原创文章，欢迎关注微信订阅号_
 
-<img src="https://github.com/warmheartli/MachineLearningCourse/blob/master/weixinpub.jpg" width = "150" height = "150" alt="SharEDITor" />
-
-_欢迎关注我的另外两个github项目_
- * [_教你成为全栈工程师_](https://github.com/warmheartli/FullStackDeveloperCourse)
- * [_机器学习精简入门教程_](https://github.com/warmheartli/MachineLearningCourse)
 
 自己动手做聊天机器人教程
 ==============
